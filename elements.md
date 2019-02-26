@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Education
+title: Where I Came From
 nav-menu: true
 ---
 
