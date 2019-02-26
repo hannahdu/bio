@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Why I'm Here
-landing-title: 'Hi, my name is Hannah.'
+landing-title: 'Hi, I am Hannah.'
 description: null
 image: null
 author: null
