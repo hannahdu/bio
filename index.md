@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Why I'm Here
 landing-title: 'Hi, my name is Hannah'
 description: null
 image: null
