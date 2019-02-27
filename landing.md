@@ -93,7 +93,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Gap Inc. Data/Business Analytics</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Innovatively developed compilers to deliver complex data to management. Performed daily system checks, ensured data integrity and manipulated and built graphs, charts, and data tables optimizing workflow and productivity. Implemented new functionality, created data reports and interpreted analysis into organized reports determining and identifying trends. Performed data mining, streamlined daily demand reports and utilized Comp Lever tools to proficiently track Traffic, UPS, and AUR transactions.</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
